@@ -1,0 +1,18 @@
+defmodule Rational do
+  @moduledoc """
+  Documentation for Rational.
+  """
+
+  @doc """
+  Hello world.
+
+  ## Examples
+
+      iex> Rational.hello()
+      :world
+
+  """
+  def hello do
+    :world
+  end
+end
